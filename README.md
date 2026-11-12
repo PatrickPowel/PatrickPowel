@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://pwpsitesmodernos.site.je">
-    <img src="https://img.shields.io/badge/Meu%20Site-webzapti.com.br-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Meu%20Site-pwpsitesmodernos.site.je-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 
   <a href="https://github.com/PatrickPowel">
