@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Patrick Willians Powel 👋</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack • Web Developer • Apaixonado por tecnologia
+  Desenvolvedor Full Stack • Estudos em Java, Spring Boot e APIs REST
 </p>
 
 <p align="center">
@@ -39,6 +39,20 @@ Sou Patrick Willians Powel, desenvolvedor focado em criar soluções web moderna
 Atuo com desenvolvimento Frontend e Backend, criando sites, sistemas, automações e integrações que ajudam empresas a melhorar sua presença digital e seus processos.
 
 Atualmente estudo e pratico tecnologias voltadas para desenvolvimento web, APIs, banco de dados, automação e infraestrutura.
+
+### Projetos de backend em destaque
+
+Projetos de portfólio e estudo com foco em regras de negócio, persistência e testes. Cada repositório explica como executar e quais são seus limites.
+
+| Projeto | O que demonstra |
+|---|---|
+| [API de consumo de energia](https://github.com/PatrickPowel/energia-api) | Medidores, leituras acumuladas, cálculo de consumo, validação e transações com JPA |
+| [API de manutenção](https://github.com/PatrickPowel/manutencao-api) | Chamados, responsáveis, fluxo de status, Spring Security, auditoria e outbox para ActiveMQ Artemis |
+| [Exercícios Spring Boot](https://github.com/PatrickPowel/Spring_Boot) | Estudos introdutórios de persistência de clientes; atribuição do código original preservada |
+
+Nos dois projetos novos: Java 21, Spring Boot, testes de integração com H2, migrações Flyway, Maven Wrapper e workflow de CI. Há configuração opcional de PostgreSQL e Docker Compose; execução nesses serviços precisa de validação adicional.
+
+Meu objetivo com esses estudos é aprofundar o desenvolvimento backend e conseguir explicar as decisões técnicas, os testes e as melhorias de cada projeto.
 
 ---
 
